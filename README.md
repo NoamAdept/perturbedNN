@@ -41,6 +41,10 @@ Experiments were conducted using a pre-trained InceptionV3 model. The original i
 - **PGD and MIM**: Successfully misclassified the image as a toaster with 100% confidence.
 - **Loss Progression**: PGD and MIM converge rapidly, whereas FGSM shows limited effectiveness.
 
+<img width="889" alt="Screenshot 2025-02-25 at 14 04 27" src="https://github.com/user-attachments/assets/fed6f61e-7315-431a-93ad-6411602bca4b" />
+
+
+
 ## Implications
 Adversarial attacks pose significant security threats in real-world applications, such as:
 - Misleading autonomous vehicles
